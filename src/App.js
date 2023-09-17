@@ -1,8 +1,9 @@
-
+import Home from "./pages/Home/Home";
+import React, { Component }  from 'react';
 function App() {
   return (
     <div >
-   <h1>strat dream</h1>
+  <Home/>
     </div>
   );
 }
