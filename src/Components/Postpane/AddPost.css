@@ -1,4 +1,8 @@
 .Addpost{
+    width: 95%;
+    border-radius:10px;
+    background-color: red;
+    height: 180%;
 
 }
 .addpostcontetn{
