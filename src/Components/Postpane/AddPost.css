@@ -44,9 +44,20 @@ box-shadow: 2px 2px 7px 3px rgba(0,0,0,0.52);
     display: flex;
     margin-left: 40px;
 }
-addphotooption{
+.addphotooption{
     display: flex;
     align-items: center;
     margin-right: 15px;
     cursor: pointer;
+}
+.addpoto{
+    margin-right: 10px;
+}
+.postbutton{
+    border: none;
+    padding: 7px;
+border-radius: 5px;
+background-color: blue;
+flood-color: white;
+cursor: pointer;
 }

@@ -20,27 +20,28 @@ export default function Addpost() {
              <div className="PostAction">
               <div className="addphotooptions">
                 <div className="addphotooption">
-                <AddAPhotoIcon className='addpoto'/>
+                <AddAPhotoIcon htmlColor='orange' className='addpoto'/>
                 <span className="addpostOptiontxt">Add Photo/Video</span>
                 </div>
 
                 <div className="addphotooption">
-                <AddLocationAltIcon className='addpoto'/>
+                <AddLocationAltIcon htmlColor='red' className='addpoto'/>
                 <span className="addpostOptiontxt">Add Lcation</span>
                 </div>
 
                 <div className="addphotooption">
-                <FaceRetouchingNaturalIcon className='addpoto'/>
-                <span className="addpostOptiontxt">Tag</span>
+                <FaceRetouchingNaturalIcon htmlColor='blue' className='addpoto'/>
+                <span className ="addpostOptiontxt">Tag</span>
                 </div>
 
                 <div className="addphotooption">
-                <LiveTvIcon className='addpoto'/>
+                <LiveTvIcon htmlColor='tomato' className='addpoto'/>
                 <span className="addpostOptiontxt">Go Live</span>
                 </div>
               </div>
                
              </div>
+             <button className="postbutton">Post</button>
             
         </div>
     </div>
