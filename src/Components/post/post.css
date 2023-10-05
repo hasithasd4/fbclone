@@ -1,0 +1,55 @@
+.post{
+font-family: sans-serif;
+-webkit-box-shadow: 2px 2px 7px 3px rgba(0,0,0,0.52); 
+box-shadow: 2px 2px 7px 3px rgba(0,0,0,0.52);
+margin: 30px 0;
+margin-left: 10px;
+border-radius: 10%;
+
+}
+.postContainer{
+
+}
+.postTop{
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+
+
+}
+.postimage{
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    object-fit: cover;
+
+}
+.postUserName{
+    font-size: 15px;
+    font-weight: 500;
+    margin: 0 10px;
+
+
+}
+.PostTime{
+    font-size: 10px;
+    
+
+}
+.postCenter{
+
+}
+.postBotme{
+
+}
+.postcaption{
+
+}
+.postimages{
+    width: 98%;
+    background-size: cover;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+

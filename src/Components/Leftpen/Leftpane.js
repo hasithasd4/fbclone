@@ -66,15 +66,15 @@ export default function Leftpane() {
               
               <li className='pageListItem'>
                 <img src="/Image/sahan.jpg"  alt='' className='pagepic'></img>
-                <span className='pagename'>code with mari</span>
+                <span className='pagename'>code with alon</span>
               </li>
               <li className='pageListItem'>
                 <img src="/Image/sahan.jpg"  alt='' className='pagepic'></img>
-                <span className='pagename'>code with mari</span>
+                <span className='pagename'>code with alon</span>
               </li>
               <li className='pageListItem'>
                 <img src="/Image/sahan.jpg"  alt='' className='pagepic'></img>
-                <span className='pagename'>code with mari</span>
+                <span className='pagename'>code with alon</span>
               </li>
               <li className='pageListItem'>
                 <img src="/Image/sahan.jpg"  alt='' className='pagepic'></img>
