@@ -1,11 +1,16 @@
 .Addpost{
     width: 95%;
     border-radius:10px;
-    background-color: red;
+  
     height: 180%;
+    margin-top: 10px;
+    margin-left: 10px;
+    -webkit-box-shadow: 2px 2px 7px 3px rgba(0,0,0,0.52); 
+box-shadow: 2px 2px 7px 3px rgba(0,0,0,0.52);
 
 }
 .addpostcontetn{
+    padding: 15px;
 
 }
 .addpostpic{
@@ -13,4 +18,35 @@
     height: 32px;
     border-radius: 50%;
     object-fit: cover;
+}
+.addpostbuttom{
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.addposttoop{
+    display: flex;
+    align-items: center;
+}
+.addpostinput{
+    border: none;
+    width: 80%;
+    margin-left: 10px;
+}
+.addpostinput:focus{
+    outline: none;
+}
+.posthr{
+    margin: 20px;
+}
+.addphotooptions{
+    display: flex;
+    margin-left: 40px;
+}
+addphotooption{
+    display: flex;
+    align-items: center;
+    margin-right: 15px;
+    cursor: pointer;
 }
